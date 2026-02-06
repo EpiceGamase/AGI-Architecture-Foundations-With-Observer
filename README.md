@@ -114,3 +114,6 @@ TENSION := |λ − Ω|
 KEEP(TENSION)
 
 LOOP_FOREVER
+
+```
+Mirror: [View on GitHub Gist] (https://gist.github.com/EpiceGamase/e3ac16019e33a2b31f4cd483782df179)
