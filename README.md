@@ -2,8 +2,8 @@
 
 # AGI-Architecture-Foundations-With-Observer (Σ₀/Φ₀)
 
-[![License: MIT](https://img.shields.io)](https://opensource.org)
-![Logic: Formal-Meta-Cognitive](https://img.shields.io)
+[![License: MIT]]
+![Logic: Formal-Meta-Cognitive]
 
 ## Project Purpose
 This repository hosts the **Σ₀/Φ₀ Framework** — a formal recursive protocol for modeling **Observer-Centric AGI Architectures**. It defines the core dynamics between ungrounded continuation, event perception, and architectural transformation.
